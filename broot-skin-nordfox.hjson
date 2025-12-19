@@ -11,19 +11,19 @@
 syntax_theme: OceanDark
 
 skin: {
-	  #Make UI transparent
+	#Make UI transparent
     default: "none none / none none"
     #default: "rgb(229, 233, 240) none / rgb(231, 236, 244) rgb(70, 87, 128)"
     
-	  #Make the text viewer background transparent
+	#Make the text viewer background transparent
     preview: "none none"
 
     #Change the line number background (gutter)
     #Use "none" for transparency or a specific Nordfox color
-	  preview_gutter: "rgb(110, 115, 141) none" 
+	preview_gutter: "rgb(110, 115, 141) none" 
     preview_line_number: "rgb(110, 115, 141) none"
 
-	  tree: "rgb(70, 87, 128) none"
+	tree: "rgb(70, 87, 128) none"
     file: "none none"
     directory: "rgb(129, 161, 193) none bold"
     exe: "rgb(191, 97, 106) none"
