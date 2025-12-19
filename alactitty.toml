@@ -1,0 +1,39 @@
+#############################################
+# Nordfox colorscheme for Alacritty
+# with modified dark background
+# contributed by @glakker
+#############################################
+
+[colors.normal]
+black   = "#12151a"
+red     = "#bf616a"
+green   = "#a3be8c"
+yellow  = "#ebcb8b"
+blue    = "#81a1c1"
+magenta = "#b48ead"
+cyan    = "#88c0d0"
+white   = "#e5e9f0"
+
+[colors.bright]
+black   = "#465780"
+red     = "#d06f79"
+green   = "#b1d196"
+yellow  = "#f0d399"
+blue    = "#8cafd2"
+magenta = "#c895bf"
+cyan    = "#93ccdc"
+white   = "#e7ecf4"
+
+[colors.dim]
+black   = "#2b3240"
+red     = "#a66a70"
+green   = "#91b38c"
+yellow  = "#d9c28d"
+blue    = "#6f8ea6"
+magenta = "#a5889c"
+cyan    = "#7da8b0"
+white   = "#cbd1d8"
+
+[colors.primary]
+background = "#12151a"
+foreground = "#d8dee9"
