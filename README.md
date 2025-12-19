@@ -5,4 +5,5 @@ Config files using the Nordfox color theme of [Nightfox](https://github.com/Eden
 
 ## Available Nordfox config files
 - Alacritty Nordfox colorscheme (dark background)
+- Neovim modified transparent Norfox theme
 - Broot Nordfox skin
