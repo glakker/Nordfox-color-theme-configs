@@ -1,5 +1,5 @@
 # Nordfox-color-theme-configs
-Config files for Nordfox color theme
+Alacritty, broot etc. config files for Nordfox color theme
 
 Config files using the Nordfox color theme of [Nightfox](https://github.com/EdenEast/nightfox.nvim) themes. 
 
